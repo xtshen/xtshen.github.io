@@ -1,4 +1,11 @@
-﻿# 欢迎使用 Cmd Markdown 编辑阅读器
+---
+layout: post
+title:  "Welcome to cmd!"
+date:   2017-03-02 17:05:13 +0000
+categories: jekyll update
+---
+
+# 欢迎使用 Cmd Markdown 编辑阅读器
 
 ------
 
