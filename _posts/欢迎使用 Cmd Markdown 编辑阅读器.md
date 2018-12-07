@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to cmd!"
-date:   2017-03-02 17:05:13 +0000
+date:   2018-12-07 17:05:13 +0000
 categories: jekyll update
 ---
 
