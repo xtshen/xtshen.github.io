@@ -53,6 +53,7 @@ ggplot(object,aes(x=sample_size,y=average_value,color="path")) + labs(title="样
 ### 2. 中心极限定理
 
 2.1 统计知识
+
 **中心极限定理（Central Limit Theorems）**：对任何均值为μ，标准差为σ的总体，样本容量为n的样本均值的分布，随着n趋近于无穷大时，会趋近均值为μ，标准差为(σ/n^.5)的正态分布。因此当n≥30时，近似有X~N（μ，(σ/n^.5)）。
 
 
