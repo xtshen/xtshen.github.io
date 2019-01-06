@@ -4,7 +4,8 @@
 作者：沈先亭 16307110443
 2019-01-01
 
-> 录频文件：https://www.bilibili.com/video/av39691423/
+> 录频文件：链接：https://pan.baidu.com/s/13YsI--PAUEMBYSifYcuNHg 提取码：3u5r 
+
 
 ### 1. 问题背景
 背景材料参考：[酒鬼漫步的数学—随机过程][1]
